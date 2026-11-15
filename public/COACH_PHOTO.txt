@@ -1,0 +1,1 @@
+To share the supplied coach photo with every player, save the original picture as guide-avatar.jpg in this public folder. The in-game picture chooser stores a personal preview only in the current browser. No photo has been bundled automatically.
